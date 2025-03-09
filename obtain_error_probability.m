@@ -22,7 +22,7 @@ function [p_link, p_node, X] = obtain_error_probability(A)
     link_features(:, 7) = rand(link_number, 1); % rainy
     sunny_index = link_features(:, 7) <= 0.9;
     link_features(:, 7) = double(~sunny_index);
-    %%  specify large sensor error probabilites
+    %%  generate large sensor error probabilites>0.5
     link_features(15, :) = [25, 20, 5, 4, 30, 1, 1];
     link_features(41, :) = [30, 30, 10, 10, 10, 1, 1];
     link_features([38;26;8;23;45;46], 1) = 20 + rand(6, 1)*5; % install time;
