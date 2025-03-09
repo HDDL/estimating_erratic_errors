@@ -21,4 +21,4 @@ The core code, including network structure, input data, error generation, error 
 We employ the same method as in existing studies (Yang, Yang, and Fan 2019) to generate the samples of road traffic by randomizing flows using the traffic assignment algorithm (see flow_matrix.txt for details).
 
 # Contact
-Sorry for not uploading all the codes. This is because uploading all codes for various testing scenarios is extremely time-consuming and labor-intensive. If you need specific codes or have any other questions, please contact zhengzj17@gmail.com or zzj17.zheng@polyu.edu.hk.
+Uploading all codes for various testing scenarios is extremely time-consuming and labor-intensive. If you need specific codes or have any other questions, please contact zhengzj17@gmail.com or zzj17.zheng@polyu.edu.hk.
