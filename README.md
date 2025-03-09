@@ -1,7 +1,7 @@
 # estimating_erratic_errors
 Implemented by Zhenjie Zheng, advised by Wei Ma, Civil and environmental engineering, The Hong Kong Polytechnic University.
 
-Requirements
+# Requirements:  
 Matlab 2024a  
 Yalmip tools  
 Solver: Mosek  
